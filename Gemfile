@@ -10,6 +10,7 @@ gem 'redis'
 
 #añadiendo gems for the project
 gem 'devise'
+gem 'simple_form'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
